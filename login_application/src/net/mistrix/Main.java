@@ -48,6 +48,7 @@ public class Main {
         int result = a + b;
 
         System.out.println("Your Admin Password is: " + result);
+        System.out.println("AdminPanel: https://adminpanel.test");
         System.out.println("Do not share this password!");
 
         System.out.println("------------------");
